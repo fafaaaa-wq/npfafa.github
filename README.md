@@ -1,4 +1,4 @@
-# npfafa.github.io
+# npfafa.github
 <html>
   <head>
     <title>Test</title>
